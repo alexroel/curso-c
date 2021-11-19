@@ -67,7 +67,7 @@ pi = 3.141592;
 ### Variables inicializadas 
 También puede inicializar una variable en el momento de su declaración. La variable inicializada en el momento de su declaración se denomina variable inicializada de valor .
 ~~~ c
-int a = 100;
+short a = 100;
 double b = 300.27;
 char c = 'C';
 ~~~
@@ -118,11 +118,11 @@ C tiene un operador sizeof incorporado que proporciona los requisitos de memoria
 
 ~~~ c
  //sizeof 
-printf("int Num1: %ld", sizeof(num1));
-printf("float time: %ld", sizeof(time));
-printf("short a: %ld", sizeof(a));
-printf("double b: %ld", sizeof(b));
-printf("char c: %ld", sizeof(c));
+printf("int Num1: %ld \n", sizeof(num1));
+printf("float time: %ld \n", sizeof(time));
+printf("short a: %ld \n", sizeof(a));
+printf("double b: %ld \n", sizeof(b));
+printf("char c: %ld \n", sizeof(c));
 ~~~
 
 ---

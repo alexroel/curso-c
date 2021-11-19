@@ -142,3 +142,5 @@ gcc -save-temps app.c -o app
     - De ensamblador traduce a lenguaje maquina 
 - `app` Vinculación de archivos de objetos  
     - Finalmente, el enlazador entra en acción y realiza la tarea final del proceso de compilación. Acepta el archivo intermedio `<file-name.o>` generado por el ensamblador. Vincula todas las llamadas a funciones con su definición original. Lo que significa que la función `printf ()` se vincula a su definición original. 
+
+Material del tema: [Procesos de compilación](https://codeforwin.org/2017/08/c-compilation-process.html)
