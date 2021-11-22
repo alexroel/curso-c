@@ -1,10 +1,10 @@
 # Funciones 
 
-1. [Declaración de Funciones]
-2. [Funcion con retorno]
-3. [Alcance de variables]
-4. [Variables Estáticas]
-5. [Funciones recursivas]
+1. [Declaración de Funciones](#declaración-de-funciones)
+2. [Funcion con retorno](#Funcion-con-retorno)
+3. [Alcance de variables](#Alcance-de-variables)
+4. [Variables Estáticas](#Variables-Estáticas)
+5. [Funciones recursivas](#Funciones-recursivas)
 
 ---
 ## Declaración de Funciones 
