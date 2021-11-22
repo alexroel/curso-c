@@ -164,11 +164,11 @@ int a = 5;
 a = a + 2;
 ~~~
 Ejemplos 
-- Suma en asignacióm `+=` `a + = 10`	`a = a + 10`
-- Resta en asiganción `-=`	`a - = 10`	`a = a - 10`
+- Suma en asignacióm `+=` `a += 10`	`a = a + 10`
+- Resta en asiganción `-=`	`a -= 10`	`a = a - 10`
 - Multiplicación e asignación `*=`	`a * = 10`	`a = a * 10`
-- División en asiganción `/=`	`a / = 10`	`a = a / 10`
-- Modulo en asiganción `%=`	`a% = 10`	`a = a% 10`
+- División en asiganción `/=`	`a /= 10`	`a = a / 10`
+- Modulo en asiganción `%=`	`a %= 10`	`a = a% 10`
 `
 
 --- 
